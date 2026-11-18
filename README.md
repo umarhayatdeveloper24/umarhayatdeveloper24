@@ -12,6 +12,7 @@ I build and ship SaaS platforms end to end: scalable APIs, payment infrastructur
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umar-hayat-742b51195)
 [![Email](https://img.shields.io/badge/Email-Write%20to%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fl=1&to=umar.hayat.developer24@gmail.com&su=Opportunity%20for%20Umar%20Hayat)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923204169730)
+<br>
 ![6+ Years Experience](https://img.shields.io/badge/💼_Experience-6%2B_Years-2563eb?style=for-the-badge&labelColor=0f172a)
 ![Worldwide Remote](https://img.shields.io/badge/🌍_Availability-Worldwide_Remote-2563eb?style=for-the-badge&labelColor=0f172a)
 </div>
