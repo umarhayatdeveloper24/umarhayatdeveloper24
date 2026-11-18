@@ -9,9 +9,6 @@ I build and ship SaaS platforms end to end: scalable APIs, payment infrastructur
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1800&color=2563EB&center=true&vCenter=true&width=620&height=30&lines=Node.js+%C2%B7+Ruby+on+Rails+%C2%B7+React+%C2%B7+PostgreSQL;Stripe+Connect+%C2%B7+Paddle+%C2%B7+Webhooks;Real-Time+Systems+%C2%B7+Microservices+%C2%B7+CI%2FCD)](https://github.com/umarhayatdeveloper24)
 
 
-![6+ years of experience](https://img.shields.io/badge/Experience-6%2B%20Years-2563eb?style=flat-square)
-![Worldwide remote](https://img.shields.io/badge/Availability-Worldwide%20Remote-0b1220?style=flat-square)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umar-hayat-742b51195)
 [![Email](https://img.shields.io/badge/Email-Write%20to%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fl=1&to=umar.hayat.developer24@gmail.com&su=Opportunity%20for%20Umar%20Hayat)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923204169730)
