@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,55:14295c,100:2563eb&height=200&section=header&text=Umar%20Hayat&fontSize=54&fontColor=ffffff&fontAlignY=40&desc=Node.js%20%C2%B7%20Ruby%20on%20Rails%20%C2%B7%20React%20%C2%B7%20SaaS%20Architecture&descAlignY=62&descSize=17&descColor=bfd3ff" width="100%" alt="Umar Hayat, Senior Full Stack Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,55:14295c,100:2563eb&height=200&section=header&text=Umar%20Hayat&fontSize=54&fontColor=ffffff&fontAlignY=40&desc=Ruby%20on%20Rails%20%C2%B7%20Node.js%20%C2%B7%20React%20%C2%B7%20SaaS%20Architecture&descAlignY=62&descSize=17&descColor=bfd3ff" width="100%" alt="Umar Hayat, Senior Full Stack Engineer" />
 
 ### Senior Full Stack Engineer · Technical Team Lead · SaaS Specialist
 
