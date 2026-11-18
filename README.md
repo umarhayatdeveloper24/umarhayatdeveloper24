@@ -2,18 +2,16 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=210&section=header&text=Umar%20Hayat&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%94%20Node.js%20%C2%B7%20Ruby%20on%20Rails%20%C2%B7%20React&descAlignY=60&descSize=19" width="100%" alt="Umar Hayat" />
 
-<img src="https://github.com/umarhayatdeveloper24.png?size=200" width="130" alt="Umar Hayat" />
-
 ### Senior Full Stack Engineer · Technical Team Lead · SaaS Specialist
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=2563EB&center=true&vCenter=true&width=720&lines=6%2B+Years+Shipping+Production+SaaS+Platforms;Node.js+%7C+Express+%7C+Ruby+on+Rails+%7C+React+%7C+Vue;Stripe+Connect+%26+Paddle+Billing+Integrations;Real-Time+Systems+%7C+Microservices+%7C+CI%2FCD)](https://git.io/typing-svg)
 
-![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to-Remote%20Roles-16a34a?style=for-the-badge)
-![Experience](https://img.shields.io/badge/Experience-6%2B%20Years-2563eb?style=for-the-badge)
-![Location](https://img.shields.io/badge/Lahore%2C%20Pakistan-Worldwide%20Remote-0f172a?style=for-the-badge)
+![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to-Remote%20Roles-16a34a?style=flat-square)
+![Experience](https://img.shields.io/badge/Experience-6%2B%20Years-2563eb?style=flat-square)
+![Worldwide Remote](https://img.shields.io/badge/Worldwide-Remote-0f172a?style=flat-square)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Umar%20Hayat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umar-hayat-742b51195)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umar.hayat.developer24@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fl=1&to=umar.hayat.developer24@gmail.com&su=Opportunity%20for%20Umar%20Hayat)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923204169730)
 
 </div>
@@ -137,13 +135,25 @@ As **Technical Team Lead at Stack360**, I led developers, ran code reviews, and 
 
 ## 🤝 Let's Work Together
 
-I'm open to **senior Node.js, Ruby on Rails, and full stack roles** (remote, worldwide) and technical lead positions.
+I'm open to **senior Node.js, Ruby on Rails, and full stack roles** (remote, worldwide) and **technical lead** positions. If you're building a SaaS product, scaling an API, or integrating payments, I'd like to hear about it.
 
 <div align="center">
 
-📧 [umar.hayat.developer24@gmail.com](mailto:umar.hayat.developer24@gmail.com) · 💬 [+92 320 4169730](https://wa.me/923204169730) · 💼 [LinkedIn](https://www.linkedin.com/in/umar-hayat-742b51195)
+| 🎯 Roles | 🌍 Availability | ⏱️ Experience |
+|:---:|:---:|:---:|
+| Senior Full Stack · Node.js · Rails · Tech Lead | Worldwide Remote | 6+ Years |
 
-![Profile Views](https://komarev.com/ghpvc/?username=umarhayatdeveloper24&color=2563eb&style=flat-square&label=Profile+Views)
+<br/>
+
+[![Email](https://img.shields.io/badge/Email-umar.hayat.developer24@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fl=1&to=umar.hayat.developer24@gmail.com&su=Opportunity%20for%20Umar%20Hayat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umar-hayat-742b51195)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+92%20320%204169730-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923204169730)
+
+<sub>Prefer plain email? Write to <b>umar.hayat.developer24@gmail.com</b></sub>
+
+<br/>
+
+<sub>Thanks for visiting. Let's build something great together.</sub>
 
 </div>
 
