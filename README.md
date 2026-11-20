@@ -1,21 +1,36 @@
+
+
+<!-- ==================== HEADER ==================== -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,55:14295c,100:2563eb&height=200&section=header&text=Umar%20Hayat&fontSize=54&fontColor=ffffff&fontAlignY=40&desc=Node.js%20%C2%B7%20Ruby%20on%20Rails%20%C2%B7%20React%20%C2%B7%20SaaS%20Architecture&descAlignY=62&descSize=17&descColor=bfd3ff" width="100%" alt="Umar Hayat, Senior Full Stack Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:b1220,55:14295c,100:2563eb&height=200&section=header&text=Umar%20Hayat&fontSize=54&fontColor=ffffff&fontAlignY=40&desc=Ruby%20on%20Rails%20%C2%B7%20Node.js%20%C2%B7%20Express.js%20%C2%B7%20SaaS%20Architecture&descAlignY=62&descSize=17&descColor=bfd3ff" width="100%" />
 
-### Senior Full Stack Engineer · Technical Team Lead · SaaS Specialist
+<h3>Senior Full Stack Engineer · Technical Team Lead · SaaS Specialist</h3>
 
-I build and ship SaaS platforms end to end: scalable APIs, payment infrastructure, real-time features, and the delivery pipelines behind them.
+<p>
+I build and maintain production SaaS applications, specializing in backend engineering,
+API architecture, payment integrations, real-time systems, and end-to-end product delivery.
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1800&color=2563EB&center=true&vCenter=true&width=620&height=30&lines=Node.js+%C2%B7+Ruby+on+Rails+%C2%B7+React+%C2%B7+PostgreSQL;Stripe+Connect+%C2%B7+Paddle+%C2%B7+Webhooks;Real-Time+Systems+%C2%B7+Microservices+%C2%B7+CI%2FCD)](https://github.com/umarhayatdeveloper24)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1800&color=2563EB&center=true&vCenter=true&width=620&height=30&lines=Ruby+on+Rails+%C2%B7+Node.js+%C2%B7+Express.js;React.js+%C2%B7+Vue.js+%C2%B7+PostgreSQL;Stripe+Connect+%C2%B7+Paddle+%C2%B7+Webhooks;Real-Time+Systems+%C2%B7+Microservices+%C2%B7+CI%2FCD" />
 
-![Open to remote opportunities](https://img.shields.io/badge/Open%20to-Remote%20Opportunities-16a34a?style=flat-square)
-![6+ years of experience](https://img.shields.io/badge/Experience-6%2B%20Years-2563eb?style=flat-square)
-![Worldwide remote](https://img.shields.io/badge/Availability-Worldwide%20Remote-0b1220?style=flat-square)
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umar-hayat-742b51195)
-[![Email](https://img.shields.io/badge/Email-Write%20to%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fl=1&to=umar.hayat.developer24@gmail.com&su=Opportunity%20for%20Umar%20Hayat)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923204169730)
-[![GitHub](https://img.shields.io/badge/GitHub-umarhayatdeveloper24-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umarhayatdeveloper24)
+<a href="https://www.linkedin.com/in/umar-hayat-742b51195">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:umar.hayat.developer24@gmail.com">
+<img src="https://img.shields.io/badge/Email-Write%20to%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://wa.me/923204169730">
+<img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Experience-6_Years-2563eb?style=for-the-badge&labelColor=0f172a" />
+<img src="https://img.shields.io/badge/Availability-Worldwide_Remote-2563eb?style=for-the-badge&labelColor=0f172a" />
 
 </div>
 
@@ -23,132 +38,127 @@ I build and ship SaaS platforms end to end: scalable APIs, payment infrastructur
 
 ## Professional Summary
 
-I'm a Senior Full Stack Engineer with six years of production experience building SaaS products from first requirements to live deployment. My strongest work is in backend architecture and APIs on Node.js and Ruby on Rails, backed by PostgreSQL, with React and Vue on the front end. I've built payment infrastructure on Stripe Connect and Paddle, real-time features, and CI/CD pipelines that make releases routine. As Technical Team Lead at Stack360, I led developers, ran code reviews, and worked directly with clients to turn requirements into shipped products.
+I'm a Senior Full Stack Engineer with six years of professional software engineering experience building and shipping SaaS applications from requirements through production deployment. My backend expertise includes **Ruby on Rails, Node.js, and Express.js**, with experience in RESTful API development, GraphQL, PostgreSQL schema design, query optimization, and microservice integrations. I also build frontend applications with **React.js and Vue.js**.
+
+At Stack360, I worked on production SaaS applications using Node.js, Express.js, and Ruby on Rails, while leading developers as a Technical Team Lead. My experience includes **Stripe Connect marketplace payments, Stripe webhook processing, Paddle subscription billing, real-time features with WebSockets and Socket.IO, and automated CI/CD deployments**. Earlier, at Code Expedition, I developed full-stack applications using Ruby on Rails, Vue.js, PostgreSQL, and MySQL.
+
+I combine hands-on engineering with technical leadership, code reviews, mentoring, and direct client collaboration to deliver maintainable, production-ready software.
 
 ---
 
 ## Engineering Impact
 
-<table>
-<tr>
-<td width="33%" valign="top">
-<b>100,000+ users</b><br/>
-Contributed to Cinekit, a global camera rental marketplace serving users worldwide.
-</td>
-<td width="33%" valign="top">
-<b>Marketplace payments</b><br/>
-Built a Stripe Connect marketplace handling coach-client payments and transactions.
-</td>
-<td width="33%" valign="top">
-<b>Subscription billing</b><br/>
-Integrated Paddle for subscription management and billing on a client-facing SaaS.
-</td>
-</tr>
-<tr>
-<td valign="top">
-<b>Real-time communication</b><br/>
-Implemented WebSocket-based features with Socket.IO and Action Cable.
-</td>
-<td valign="top">
-<b>Automated delivery</b><br/>
-Established CI/CD pipelines with automated deployments, reducing manual release errors.
-</td>
-<td valign="top">
-<b>Technical leadership</b><br/>
-Led developers as Technical Team Lead through code reviews, mentoring, and client collaboration.
-</td>
-</tr>
-</table>
+<div align="center">
+
+| **100,000+ Users** | **Marketplace Payments** | **Subscription Billing** |
+|:---:|:---:|:---:|
+| Contributed to Cinekit, a global camera equipment rental marketplace serving more than 100,000 users worldwide. | Built a Stripe Connect marketplace for coach-client payments and transactions on Habit Catalyst. | Integrated Paddle subscription management and billing for the Clicks SaaS platform. |
+| **Real-Time Systems** | **Automated Deployments** | **Technical Leadership** |
+| Implemented real-time functionality using WebSockets, Socket.IO, and Action Cable. | Established CI/CD pipelines with GitHub Actions and GitLab CI/CD to automate deployment workflows. | Led developers through mentoring, code reviews, engineering practices, and Agile delivery. |
+
+</div>
 
 ---
 
 ## Technical Expertise
 
-| Area | Technologies | Focus |
-|:---|:---|:---|
-| **Backend Engineering** | [![Node.js, Express, Rails, GraphQL, JavaScript, Ruby](https://skillicons.dev/icons?i=nodejs,express,rails,graphql,js,ruby)](https://skillicons.dev) | Node.js, Express.js, Ruby on Rails, REST APIs, GraphQL, microservices |
-| **Frontend Engineering** | [![React, Vue, Tailwind CSS, Bootstrap, HTML, CSS](https://skillicons.dev/icons?i=react,vue,tailwind,bootstrap,html,css)](https://skillicons.dev) | React.js, Vue.js 2/3, Tailwind CSS, Bootstrap, HTML5, CSS3 |
-| **Databases and Data Architecture** | [![PostgreSQL, MySQL, MongoDB, Redis](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis)](https://skillicons.dev) | PostgreSQL schema design, query optimization, MySQL, MongoDB, Redis |
-| **Payments and SaaS Infrastructure** | Stripe Connect · Paddle · Webhooks | Marketplace payments, subscription billing, webhook processing, OAuth 2.0, JWT, Zapier |
-| **Cloud and DevOps** | [![AWS, Docker, Kubernetes, Heroku, GitHub Actions, GitLab, Linux](https://skillicons.dev/icons?i=aws,docker,kubernetes,heroku,githubactions,gitlab,linux)](https://skillicons.dev) | AWS, Docker, Kubernetes, Heroku, GitHub Actions, GitLab CI/CD |
-| **Real-Time Systems** | WebSockets · Socket.IO · Action Cable | Live communication and event-driven features |
-| **AI-Assisted Engineering** | Claude · ChatGPT · Cursor | AI-assisted development, prompt engineering, workflow automation |
+| **Area** | **Technologies** | **Focus** |
+|---|---|---|
+| **Backend Engineering** | Ruby, Rails, Node.js, Express, GraphQL, JavaScript | Ruby on Rails, Node.js, Express.js, RESTful APIs, GraphQL, MVC architecture, microservices |
+| **Frontend Engineering** | React, Vue, Tailwind CSS, Bootstrap, HTML, CSS | React.js, Vue.js 2/3, Tailwind CSS, Bootstrap, HTML5, CSS3, Haml, ERB |
+| **Databases and Data Architecture** | PostgreSQL, MySQL, MongoDB, Redis | Schema design, query optimization, database architecture |
+| **Payments and Integrations** | Stripe Connect, Stripe Webhooks, Paddle | Marketplace payments, subscription billing, webhook processing, OAuth 2.0, JWT, Zapier, Google APIs, OpenAI API |
+| **Cloud and DevOps** | AWS, Docker, Kubernetes, Heroku, GitHub Actions, GitLab, Linux | Cloud infrastructure, CI/CD, automated deployments |
+| **Real-Time and Event-Driven Systems** | WebSockets, Socket.IO, Action Cable | Real-time functionality, event-driven features, webhook processing |
+| **Engineering Practices** | Git, Agile, Jira, Code Reviews | Performance optimization, debugging, technical mentoring |
+| **AI-Assisted Engineering** | Claude, ChatGPT, Cursor | AI-assisted development, prompt engineering, workflow automation |
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ruby,rails,nodejs,express,js,ts,react,vue,html,css,tailwind,bootstrap,postgres,mysql,mongodb,redis,aws,docker,kubernetes,heroku,githubactions,git,linux&perline=8" />
+
+</div>
 
 ---
 
 ## Featured Production Projects
 
-> All three are professional client projects. Source code and details are private and confidential, and I'm glad to discuss architecture and decisions in an interview.
+<sub>These are professional client projects. Source code and confidential implementation details are not publicly available, but I'm happy to discuss my contributions and technical decisions in an interview.</sub>
 
 ### Cinekit: Global Camera Equipment Rental Marketplace
+
 `Private · Client project`
 
 | | |
-|:---|:---|
-| **Purpose** | A consumer marketplace for renting camera equipment, serving 100,000+ users worldwide. |
+|---|---|
+| **Purpose** | A consumer marketplace for renting camera equipment, serving more than 100,000 users worldwide. |
 | **My contribution** | Developed backend and frontend functionality as part of the engineering team. |
-| **Challenges** | Resolving critical production bugs and keeping a large, growing codebase maintainable. |
+| **Challenges** | Resolving critical production bugs and improving the architecture and maintainability of a live marketplace. |
 | **Stack** | Ruby on Rails, Haml |
-| **Impact** | Improved architecture, performance, and maintainability of a live marketplace. |
+| **Impact** | Contributed to a large-scale marketplace while improving application performance and maintainability. |
 
 ### Habit Catalyst (Coach Catalyst): Coaching and Accountability SaaS
+
 `Private · Client project`
 
 | | |
-|:---|:---|
-| **Purpose** | A platform connecting coaches and clients through communication, progress tracking, and engagement tools. |
-| **My contribution** | Lead Developer. Designed and built the communication and progress-tracking modules, the Stripe Connect payment marketplace, and the Zapier automations; mentored developers and contributed to architecture decisions. |
-| **Challenges** | Handling coach-client payments and transactions through Stripe Connect, and migrating the frontend from Vue 2 to Vue 3 without disrupting delivery. |
-| **Stack** | Ruby on Rails, Vue.js 2/3, Stripe Connect, Zapier, real-time communication |
-| **Impact** | A working payment marketplace, a modernized frontend for maintainability and performance, and automated third-party workflows. |
+|---|---|
+| **Purpose** | A platform supporting coach-client communication, progress tracking, and client engagement. |
+| **My contribution** | Served as Lead Developer, designing and building core communication and progress-tracking modules, implementing the Stripe Connect marketplace, and guiding development work. |
+| **Challenges** | Implementing coach-client payments and transactions, migrating the frontend from Vue 2 to Vue 3, and automating third-party workflows. |
+| **Stack** | Ruby on Rails, Vue.js 2/3, Stripe Connect, Zapier |
+| **Impact** | Delivered marketplace payment functionality, a modernized frontend, and automated third-party workflows. |
 
 ### Clicks: Subscription-Based SaaS Platform
+
 `Private · Client project`
 
 | | |
-|:---|:---|
-| **Purpose** | A client-facing subscription product delivered from requirements to production. |
-| **My contribution** | Led delivery end to end: gathered requirements directly from the client, owned implementation through deployment, migrated the frontend, and integrated billing and CI/CD. |
-| **Challenges** | Moving the frontend from Rails ERB views to React.js within tight client deadlines. |
+|---|---|
+| **Purpose** | A client-facing SaaS platform with subscription management and billing. |
+| **My contribution** | Led implementation and delivery, gathered requirements directly from the client, and owned development through deployment. |
+| **Challenges** | Migrating Rails ERB views to React.js within tight client deadlines and integrating subscription billing. |
 | **Stack** | Ruby on Rails, React.js, Paddle, GitHub Actions, Heroku |
-| **Impact** | Subscription billing through Paddle and automated Heroku deployments via GitHub Actions. |
+| **Impact** | Integrated Paddle subscription billing and established automated Heroku deployments using GitHub Actions. |
 
 ---
 
 ## Professional Experience
 
 ### Senior Software Engineer (Team Lead) · Stack360
-**2022 – 2026**
 
-- Owned backend services, business logic, and REST APIs across Node.js/Express.js and Ruby on Rails SaaS products, from requirements through production deployment.
-- Designed APIs, PostgreSQL schemas, and microservice integrations to improve scalability, performance, and security across multi-service systems.
-- Built payment infrastructure with Stripe Connect and webhook processing to keep payment, subscription, and account data synchronized across platforms.
-- Implemented real-time features with Socket.IO, WebSockets, and Action Cable.
-- Established CI/CD pipelines with automated deployments, cutting manual release errors and speeding up releases.
-- Delivered end-to-end features with React.js and Vue.js interfaces styled with Tailwind CSS and Bootstrap.
-- Led a development team through code reviews, mentoring, and engineering best practices to meet delivery deadlines.
-- Worked directly with clients to gather requirements, define technical solutions, and refine scope, coordinating Agile delivery.
+**2022 – 2026 · Lahore, Pakistan**
+
+- Architected and maintained production SaaS applications using **Node.js, Express.js, and Ruby on Rails**, owning backend services, business logic, and RESTful APIs from requirements through deployment.
+- Designed RESTful APIs, PostgreSQL schemas, and microservice integrations to support scalability, performance, and security across multi-service systems.
+- Integrated Stripe Connect and implemented Stripe webhook processing to keep payment, subscription, and account data synchronized across platforms.
+- Implemented real-time functionality using Socket.IO and WebSockets, alongside Action Cable in Rails services.
+- Established CI/CD pipelines with automated deployments, reducing manual release errors and speeding up releases.
+- Delivered end-to-end features by building React.js and Vue.js interfaces with Tailwind CSS and Bootstrap, integrated with backend APIs.
+- Led a development team as Technical Team Lead, conducting code reviews, mentoring developers, and promoting engineering best practices.
+- Worked directly with clients to gather requirements, define technical solutions, refine scope, and coordinate Agile delivery.
 
 ### Software Engineer / Full Stack Developer · Code Expedition
-**2020 – 2022**
 
-- Built and integrated RESTful APIs in Ruby on Rails for secure, efficient data flow between backend and frontend.
-- Developed full-stack applications pairing Rails backends with Vue.js frontends.
-- Designed relational schemas and optimized queries in PostgreSQL and MySQL.
-- Integrated authentication systems, payment gateways, and external APIs.
-- Contributed reusable, maintainable code through Agile sprints, stand-ups, and code reviews.
+**2020 – 2022 · Lahore, Pakistan**
 
-**Education:** BS Computer Science, Government College University, Lahore (2021)
+- Developed and maintained full-stack web applications using **Ruby on Rails on the backend and Vue.js on the frontend**.
+- Built and integrated RESTful APIs, ensuring secure and efficient data flow between backend and frontend systems.
+- Designed relational database schemas and optimized queries in PostgreSQL and MySQL.
+- Integrated third-party services, including authentication systems, payment gateways, and external APIs.
+- Collaborated in Agile sprints through sprint planning, stand-ups, and code reviews, contributing reusable and maintainable code.
+
+**Education:** BS Computer Science · Government College University, Lahore · 2021
 
 ---
 
 ## Engineering Philosophy
 
-- **Maintainable architecture.** Code gets read far more than it is written, so clear structure and sensible boundaries come first.
-- **Reliable systems.** Payments and billing leave no room for guesswork, so I rely on webhook handling that keeps data consistent, and on automated deployments instead of manual steps.
-- **Performance and security.** Schema design, query optimization, and sound authentication belong in the design phase, not in a cleanup pass.
-- **Practical decisions.** I choose the simplest approach that solves the business problem and will still hold up when the product grows.
-- **Business-focused delivery.** Working closely with clients and teams keeps engineering effort pointed at what the product actually needs.
+- **Maintainable architecture.** I focus on clear application structure, sensible boundaries, and code that remains understandable as products evolve.
+- **Reliable integrations.** Payment processing, webhooks, and third-party services need consistent handling and dependable data synchronization.
+- **Performance and scalability.** Database schema design, query optimization, and efficient API development are important parts of building production systems.
+- **Practical engineering.** I aim to choose solutions that address the business requirement while keeping systems maintainable.
+- **Collaborative delivery.** Direct client communication, mentoring, code reviews, and Agile teamwork help turn requirements into working software.
 
 ---
 
@@ -156,35 +166,76 @@ Led developers as Technical Team Lead through code reviews, mentoring, and clien
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=umarhayatdeveloper24&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=0b1220&title_color=60a5fa&text_color=c9d1d9&icon_color=2563eb&border_color=1e293b" alt="GitHub statistics for umarhayatdeveloper24" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarhayatdeveloper24&layout=compact&hide_border=false&bg_color=0b1220&title_color=60a5fa&text_color=c9d1d9&border_color=1e293b" alt="Most used languages in public repositories" />
+### Git Activity Demonstration
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=umarhayatdeveloper24&bg_color=0b1220&color=60a5fa&line=2563eb&point=ffffff&area=true&area_color=2563eb&hide_border=true&title_color=60a5fa" width="100%" alt="Contribution activity graph for umarhayatdeveloper24" />
+<table>
+<tr>
+<td align="center">
+<h2>1,349</h2>
+<strong>Generated demonstration commits</strong>
+</td>
+<td align="center">
+<h2>1</h2>
+<strong>Completion-marker commit</strong>
+</td>
+<td align="center">
+<h2>1,350</h2>
+<strong>Total synthetic commits</strong>
+</td>
+</tr>
+</table>
 
-<sub>Contribution counts include private work on client repositories. Language statistics cover public repositories only.</sub>
+<p><strong>Simulated activity period:</strong> November 2021 – November 2026</p>
+
+### GitHub Statistics
+
+<a href="https://github.com/umarhayatdeveloper24">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=umarhayatdeveloper24&show_icons=true&hide_border=false&bg_color=0b1220&title_color=60a5fa&text_color=c9d1d9&icon_color=2563eb&border_color=1e293b" alt="GitHub statistics" />
+</a>
+<a href="https://github.com/umarhayatdeveloper24">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarhayatdeveloper24&layout=compact&hide_border=false&bg_color=0b1220&title_color=60a5fa&text_color=c9d1d9&border_color=1e293b" alt="Most used languages" />
+</a>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=umarhayatdeveloper24&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" width="75%" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=umarhayatdeveloper24&theme=tokyo-night&hide_border=true" alt="GitHub activity graph" width="95%" />
 
 </div>
+
+> **Activity transparency:** The 1,350 commits listed above are from a synthetic Git activity demonstration. They do not represent historical development work or actual contributions made during the simulated period. My professional production work includes private client repositories, so public GitHub activity represents only part of my engineering experience.
 
 ---
 
 ## Let's Work Together
 
-I'm looking for senior engineering roles with international and remote-first teams:
+I'm open to opportunities with international and remote-first engineering teams:
 
 - Senior Full Stack Engineer
-- Senior Node.js Engineer
+- Senior Node.js / Express.js Engineer
 - Senior Ruby on Rails Engineer
 - Technical Lead
-- Remote, worldwide
+
+**Location:** Lahore, Pakistan · Open to worldwide remote opportunities
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umar-hayat-742b51195)
-[![Email](https://img.shields.io/badge/Email-umar.hayat.developer24%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fl=1&to=umar.hayat.developer24@gmail.com&su=Opportunity%20for%20Umar%20Hayat)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923204169730)
+<a href="https://www.linkedin.com/in/umar-hayat-742b51195">
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:umar.hayat.developer24@gmail.com">
+<img src="https://img.shields.io/badge/Email-umar.hayat.developer24%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://wa.me/923204169730">
+<img src="https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
 
-<sub>Email: <b>umar.hayat.developer24@gmail.com</b> · LinkedIn: <b>linkedin.com/in/umar-hayat-742b51195</b></sub>
+<br/><br/>
+
+<sub>Email: <a href="mailto:umar.hayat.developer24@gmail.com">umar.hayat.developer24@gmail.com</a> · LinkedIn: <a href="https://www.linkedin.com/in/umar-hayat-742b51195">umar-hayat-742b51195</a></sub>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,55:14295c,100:0b1220&height=90&section=footer" width="100%" alt="" />
